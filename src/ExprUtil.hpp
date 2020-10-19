@@ -44,7 +44,7 @@ struct Person {
     int age;
     double height;
     double weight;
-}
+};
 
 
 
